@@ -1,5 +1,5 @@
-Pillow==10.0.0
-streamlit==1.26.0
+Pillow
+streamlit
 torch
 ultralytics
 opencv-python
