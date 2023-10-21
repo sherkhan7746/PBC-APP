@@ -1,4 +1,3 @@
-python
 Pillow==10.0.0
 streamlit==1.26.0
 torch
