@@ -1,4 +1,5 @@
-Pillow
+python==3.9.0
+Pillow==10.0.0
 streamlit==1.26.0
 torch
 ultralytics
