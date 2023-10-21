@@ -2,3 +2,4 @@ Pillow
 streamlit==1.26.0
 torch
 ultralytics
+opencv-python
